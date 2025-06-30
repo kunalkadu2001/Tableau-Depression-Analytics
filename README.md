@@ -39,7 +39,8 @@ This project analyzes student depression data using Tableau. Data was cleaned in
 - Students with financial stress: 52 students
 - Gender with higher depression symptoms: Female (F)
 
-
+## Final Conclusion:
+- The analysis reveals that a significant number of students face academic pressure, financial stress, and lack of sleep, which are key factors linked to depression. Female students show slightly higher depression levels, and younger students (A1) report lower study satisfaction. These insights can help institutions focus on mental health support and stress management for students.
 
 
 
