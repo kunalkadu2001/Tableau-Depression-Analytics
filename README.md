@@ -33,9 +33,9 @@ This project analyzes student depression data using Tableau. Data was cleaned in
 - High academic pressure: 47% of students
 - Students sleeping < 6 hours: 28 students
 - Average study satisfaction (by age group):
-    A1: 2.9
-    A2: 3.4
-    A3: 3.7
+   -  A1: 2.9
+   -  A2: 3.4
+   -  A3: 3.7
 - Students with financial stress: 52 students
 - Gender with higher depression symptoms: Female (F)
 
